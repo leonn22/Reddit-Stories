@@ -1,0 +1,7 @@
+streamlit
+gtts
+pyttsx3
+moviepy
+pillow
+requests
+beautifulsoup4
